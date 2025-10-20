@@ -1,16 +1,20 @@
-## Hi there 👋
+# Halo, everyone Saya [Linda Suhendar]! 👋
 
-<!--
-**linda0802/linda0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tentang Saya
+- 💻 **saya adalah mahasiswi disalah satu sekolah tinggi di Bogor Indonesia yaitu stikom El Rahma** dengan passion di **[Bidang informatika- administrasi]**.
+- 🌱 Saat ini sedang mendalami/belajar: **[Teknologi dan administrasi]**.
+- 💬 Tanya saya tentang **[Keahlian Utama, JavaScript, html dan css]**.
 
-Here are some ideas to get you started:
+### 🛠️ Keahlian Saya
+| Frontend | Tools & Lainnya |
+| :---: | :---: |
+| HTML, CSS | visual video code| 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Mari Terhubung
+- 📫 Cara menghubungi saya:
+**[lindasuhendar08@gmail.com]** atau lewat
+  
+  📸 Instagram: **[linda_shndr](https://instagram.com/linda_shndr)**
+
+  🌐 **LinkedIn:** .[linda Suhendar](https://www.linkedin.com/in/linda-suhendar-931116389?)
+  
